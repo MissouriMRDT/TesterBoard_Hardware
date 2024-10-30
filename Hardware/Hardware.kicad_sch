@@ -8290,7 +8290,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 142.24 185.928 90)
 			(effects
 				(font
@@ -8493,7 +8493,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 57.912 170.18 90)
 			(effects
 				(font
@@ -9511,7 +9511,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 53.34 105.918 90)
 			(effects
 				(font
@@ -10815,7 +10815,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MODULE_DEV-16771"
+		(property "Footprint" "MRDT_Shields:Teensy_4_1_Ethernet"
 			(at 289.56 95.25 0)
 			(effects
 				(font
@@ -11944,7 +11944,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 57.912 181.61 90)
 			(effects
 				(font
