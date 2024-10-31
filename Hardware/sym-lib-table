@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "sw_spst")(type "KiCad")(uri "${KIPRJMOD}/libs/TL3301EF100QG.kicad_sym")(options "")(descr ""))
+)
