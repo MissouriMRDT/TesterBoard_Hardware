@@ -6480,12 +6480,28 @@
 		(uuid "ffdd61b0-dfb0-467a-a9cf-88d1d8f0fde5")
 	)
 	(no_connect
+		(at 215.9 97.79)
+		(uuid "0b06fa06-5876-440d-8e67-9f2012963ad8")
+	)
+	(no_connect
+		(at 215.9 118.11)
+		(uuid "0f5bf56d-e85e-4b8c-bd99-5fba4396eef6")
+	)
+	(no_connect
+		(at 215.9 110.49)
+		(uuid "1750cd28-afa2-4dae-a287-f8e12995626e")
+	)
+	(no_connect
 		(at 256.54 77.47)
 		(uuid "18341b5b-aee7-4a93-90e9-eaae5cdda508")
 	)
 	(no_connect
 		(at 344.17 111.76)
 		(uuid "1b1dea50-58f2-45cd-a0d6-ce18bad028ac")
+	)
+	(no_connect
+		(at 256.54 92.71)
+		(uuid "1d3b8a1f-4f61-49ab-8112-2f1d30656306")
 	)
 	(no_connect
 		(at 215.9 80.01)
@@ -6502,6 +6518,10 @@
 	(no_connect
 		(at 313.69 73.66)
 		(uuid "2c870bcd-0a26-460c-8320-61d35cab5982")
+	)
+	(no_connect
+		(at 215.9 115.57)
+		(uuid "3251a07b-d3c1-41e3-8600-50a2212baf44")
 	)
 	(no_connect
 		(at 215.9 74.93)
@@ -6526,6 +6546,10 @@
 	(no_connect
 		(at 344.17 96.52)
 		(uuid "570be87b-0842-4d0f-a61a-2a542df14ba4")
+	)
+	(no_connect
+		(at 215.9 107.95)
+		(uuid "57502920-5d30-45fa-8e27-2d4ec278d393")
 	)
 	(no_connect
 		(at 215.9 72.39)
@@ -6560,6 +6584,10 @@
 		(uuid "7be19f7f-2d22-425f-9891-67e261e73dda")
 	)
 	(no_connect
+		(at 256.54 80.01)
+		(uuid "7d6e650a-5794-4ab9-bd89-13e849d96642")
+	)
+	(no_connect
 		(at 256.54 123.19)
 		(uuid "7e0f11f6-a779-4e88-ac4b-df1162488020")
 	)
@@ -6570,6 +6598,14 @@
 	(no_connect
 		(at 256.54 46.99)
 		(uuid "89ef15a1-15fb-47e9-b829-c14236509fc9")
+	)
+	(no_connect
+		(at 256.54 74.93)
+		(uuid "9d071681-6178-4c77-84c2-d94cdf7036b8")
+	)
+	(no_connect
+		(at 215.9 113.03)
+		(uuid "9df1b8a7-f3cb-40ee-93e4-e1fad9fc382c")
 	)
 	(no_connect
 		(at 313.69 76.2)
@@ -6638,6 +6674,10 @@
 	(no_connect
 		(at 344.17 121.92)
 		(uuid "f030b787-14b4-4c15-a6c9-be54e57169b4")
+	)
+	(no_connect
+		(at 215.9 120.65)
+		(uuid "f897479f-239e-4599-ba3c-63984a9c88dd")
 	)
 	(wire
 		(pts
@@ -11105,7 +11145,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MRDT_Connectors:MOLEX_SL_02_Horizontal"
+		(property "Footprint" "Tester:Bat_4xAA_MP000327"
 			(at 39.37 45.466 90)
 			(effects
 				(font
@@ -11549,7 +11589,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 156.21 57.15 0)
+		(at 142.24 53.34 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -11558,7 +11598,7 @@
 		(fields_autoplaced yes)
 		(uuid "2249962e-5f7a-4573-a29e-1e874318633f")
 		(property "Reference" "H2"
-			(at 158.75 55.8799 0)
+			(at 144.78 52.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11567,7 +11607,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 158.75 58.4199 0)
+			(at 144.78 54.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11576,7 +11616,7 @@
 			)
 		)
 		(property "Footprint" "MRDT_Drill_Holes:4_40_Hole"
-			(at 156.21 57.15 0)
+			(at 142.24 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11585,7 +11625,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 156.21 57.15 0)
+			(at 142.24 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11594,7 +11634,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 156.21 57.15 0)
+			(at 142.24 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13233,7 +13273,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 163.83 68.58 0)
+		(at 142.24 62.23 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -13242,7 +13282,7 @@
 		(fields_autoplaced yes)
 		(uuid "7923cfae-d458-4f66-85cc-d460eae1349f")
 		(property "Reference" "H5"
-			(at 166.37 67.3099 0)
+			(at 144.78 60.9599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13251,7 +13291,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 166.37 69.8499 0)
+			(at 144.78 63.4999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13260,7 +13300,7 @@
 			)
 		)
 		(property "Footprint" "MRDT_Drill_Holes:4_40_Hole"
-			(at 163.83 68.58 0)
+			(at 142.24 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13269,7 +13309,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 163.83 68.58 0)
+			(at 142.24 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13278,7 +13318,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 163.83 68.58 0)
+			(at 142.24 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13643,7 +13683,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 177.8 48.26 0)
+		(at 161.29 53.34 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -13652,7 +13692,7 @@
 		(fields_autoplaced yes)
 		(uuid "81cb9b1a-385e-4528-8019-260e35bc5d3e")
 		(property "Reference" "H3"
-			(at 180.34 46.9899 0)
+			(at 163.83 52.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13661,7 +13701,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 180.34 49.5299 0)
+			(at 163.83 54.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13670,7 +13710,7 @@
 			)
 		)
 		(property "Footprint" "MRDT_Drill_Holes:4_40_Hole"
-			(at 177.8 48.26 0)
+			(at 161.29 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13679,7 +13719,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 177.8 48.26 0)
+			(at 161.29 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13688,7 +13728,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 177.8 48.26 0)
+			(at 161.29 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13840,7 +13880,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 179.07 31.75 0)
+		(at 123.19 62.23 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -13849,7 +13889,7 @@
 		(fields_autoplaced yes)
 		(uuid "8f6e351d-2938-4492-968b-cc47aeb97006")
 		(property "Reference" "H4"
-			(at 181.61 30.4799 0)
+			(at 125.73 60.9599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13858,7 +13898,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 181.61 33.0199 0)
+			(at 125.73 63.4999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13867,7 +13907,7 @@
 			)
 		)
 		(property "Footprint" "MRDT_Drill_Holes:4_40_Hole"
-			(at 179.07 31.75 0)
+			(at 123.19 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13876,7 +13916,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 179.07 31.75 0)
+			(at 123.19 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13885,7 +13925,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 179.07 31.75 0)
+			(at 123.19 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15674,7 +15714,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 176.53 60.96 0)
+		(at 161.29 62.23 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -15683,7 +15723,7 @@
 		(fields_autoplaced yes)
 		(uuid "e3d3b048-8eba-421b-b803-618a4e6a4c94")
 		(property "Reference" "H6"
-			(at 179.07 59.6899 0)
+			(at 163.83 60.9599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15692,7 +15732,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 179.07 62.2299 0)
+			(at 163.83 63.4999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15701,7 +15741,7 @@
 			)
 		)
 		(property "Footprint" "MRDT_Drill_Holes:4_40_Hole"
-			(at 176.53 60.96 0)
+			(at 161.29 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15710,7 +15750,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 176.53 60.96 0)
+			(at 161.29 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15719,7 +15759,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 176.53 60.96 0)
+			(at 161.29 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16266,7 +16306,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 137.16 58.42 0)
+		(at 123.19 53.34 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -16275,7 +16315,7 @@
 		(fields_autoplaced yes)
 		(uuid "fcd70273-b614-4d1c-b87c-7eeff4f15548")
 		(property "Reference" "H1"
-			(at 139.7 57.1499 0)
+			(at 125.73 52.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16284,7 +16324,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 139.7 59.6899 0)
+			(at 125.73 54.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16293,7 +16333,7 @@
 			)
 		)
 		(property "Footprint" "MRDT_Drill_Holes:4_40_Hole"
-			(at 137.16 58.42 0)
+			(at 123.19 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16302,7 +16342,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 137.16 58.42 0)
+			(at 123.19 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16311,7 +16351,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 137.16 58.42 0)
+			(at 123.19 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
