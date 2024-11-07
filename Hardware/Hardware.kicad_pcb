@@ -613,7 +613,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R1"
-			(at 1.397 0 180)
+			(at 2.159 0 180)
 			(layer "F.SilkS")
 			(uuid "c284c777-70b8-4878-9ad2-f533872cf3fa")
 			(effects
@@ -3870,7 +3870,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R10"
-			(at 0 -1.43 0)
+			(at 1.27 -1.27 0)
 			(layer "F.SilkS")
 			(uuid "0d2e0e37-67a0-4ae3-90ae-d4246371e468")
 			(effects
@@ -4083,7 +4083,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R4"
-			(at 1.25575 0.02 180)
+			(at 2.06975 0.02 180)
 			(layer "F.SilkS")
 			(uuid "0bf9fe69-b4ea-46b8-b4fe-c1a8dd5ebf2f")
 			(effects
@@ -4294,7 +4294,7 @@
 		(uuid "46092885-acb6-43e4-86d1-9c92c3904a8c")
 		(at 229.108 77.47 -90)
 		(property "Reference" "D2"
-			(at -1.651 0 0)
+			(at -2.286 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "067c5cee-5ca7-431c-b3fd-5ca667449c1e")
@@ -5814,7 +5814,7 @@
 		(descr "DCDC-Converter, TRACO, TMR xxxx, Single/Dual output, http://www.datasheetlib.com/datasheet/135136/tmr-2-2410e_traco-power.html?page=3#datasheet")
 		(tags "DCDC-Converter TRACO TMRxxxx Single/Dual_output")
 		(property "Reference" "U1"
-			(at 13.843 1.651 180)
+			(at 14.097 2.54 180)
 			(layer "F.SilkS")
 			(uuid "6d61bfc1-8ed6-440d-8988-30c21fa335de")
 			(effects
@@ -6146,7 +6146,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C1"
-			(at -1.27 0 180)
+			(at -2.032 0 180)
 			(layer "F.SilkS")
 			(uuid "02100713-3406-4c28-a84f-6fe34deb00ea")
 			(effects
@@ -6942,7 +6942,7 @@
 		(descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x04 2.54mm single row")
 		(property "Reference" "J1"
-			(at 0 -2.33 0)
+			(at 0 9.906 0)
 			(layer "F.SilkS")
 			(uuid "bd7ecc79-3e40-431d-86a1-04458804b4bf")
 			(effects
@@ -7914,7 +7914,7 @@
 		(descr "SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOIC SO")
 		(property "Reference" "U2"
-			(at -4.953 2.032 0)
+			(at -4.572 1.397 0)
 			(layer "F.SilkS")
 			(uuid "b8c85650-d4d7-40b3-8b21-abe1e3d30d0e")
 			(effects
@@ -8230,7 +8230,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R3"
-			(at -1.103 0 180)
+			(at -0.976 -1.524 180)
 			(layer "F.SilkS")
 			(uuid "44dd25a0-236e-4d21-abd4-56c19b976c98")
 			(effects
@@ -8656,7 +8656,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R6"
-			(at -1.0795 0 180)
+			(at -2.0955 0 180)
 			(layer "F.SilkS")
 			(uuid "05435f64-e4d2-4e26-8f6d-044b50272301")
 			(effects
@@ -8869,7 +8869,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R7"
-			(at -1.056 0 180)
+			(at -1.945 0 180)
 			(layer "F.SilkS")
 			(uuid "d32876b3-78c8-4c26-bc2c-e9fb9846c86a")
 			(effects
@@ -9391,7 +9391,7 @@
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED handsolder")
 		(property "Reference" "D3"
-			(at -2.54 -0.02 180)
+			(at -2.286 -0.02 180)
 			(layer "F.SilkS")
 			(uuid "f65c85a9-6e0f-4788-bace-a3701ba73025")
 			(effects
@@ -9626,7 +9626,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R5"
-			(at -1.183 0 180)
+			(at -2.072 0 180)
 			(layer "F.SilkS")
 			(uuid "8c241da9-1c1d-4285-80a8-4aa146acfd43")
 			(effects
@@ -9839,7 +9839,7 @@
 		(descr "https://www.e-switch.com/system/asset/product_line/data_sheet/213/TL3305.pdf")
 		(tags "TL3305 Series Tact Switch")
 		(property "Reference" "SW9"
-			(at -3.512 -0.024 180)
+			(at -5.036 -0.024 180)
 			(layer "F.SilkS")
 			(uuid "2da960ec-ad96-4867-b637-ba429e6012c8")
 			(effects
@@ -10312,7 +10312,7 @@
 		(descr "https://www.e-switch.com/system/asset/product_line/data_sheet/213/TL3305.pdf")
 		(tags "TL3305 Series Tact Switch")
 		(property "Reference" "SW8"
-			(at -3.727 -0.024 180)
+			(at -5.251 -0.024 180)
 			(layer "F.SilkS")
 			(uuid "7e66a6a4-e89a-43b3-8147-70840e2d7502")
 			(effects
