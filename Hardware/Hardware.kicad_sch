@@ -10510,7 +10510,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.pjrc.com/store/display_ili9341_touch.html"
 			(at 27.94 118.11 0)
 			(effects
 				(font
@@ -11084,7 +11084,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.farnell.com/datasheets/3917508.pdf"
 			(at 167.64 127 0)
 			(effects
 				(font
@@ -11154,7 +11154,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.farnell.com/datasheets/2820897.pdf"
 			(at 39.37 45.466 90)
 			(effects
 				(font
@@ -13172,7 +13172,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.farnell.com/datasheets/3917508.pdf"
 			(at 167.64 95.25 0)
 			(effects
 				(font
@@ -13641,7 +13641,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://docs.broadcom.com/docs/AV02-0173EN"
+		(property "Datasheet" "https://www.farnell.com/datasheets/1790950.pdf"
 			(at 88.9 218.44 0)
 			(effects
 				(font
@@ -14210,7 +14210,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.farnell.com/datasheets/3917508.pdf"
 			(at 138.43 127 0)
 			(effects
 				(font
@@ -14653,7 +14653,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.farnell.com/datasheets/3917508.pdf"
 			(at 107.95 127 0)
 			(effects
 				(font
@@ -14972,7 +14972,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.tracopower.com/products/tmr2.pdf"
+		(property "Datasheet" "https://www.tracopower.com/tmr3-datasheet"
 			(at 77.47 55.88 0)
 			(effects
 				(font
@@ -15057,7 +15057,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://docs.broadcom.com/docs/AV02-0173EN"
+		(property "Datasheet" "https://www.farnell.com/datasheets/1790950.pdf"
 			(at 120.65 218.44 0)
 			(effects
 				(font
@@ -15267,7 +15267,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.farnell.com/datasheets/3917508.pdf"
 			(at 138.43 95.25 0)
 			(effects
 				(font
@@ -15401,7 +15401,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.farnell.com/datasheets/2698135.pdf"
 			(at 313.69 190.5 0)
 			(effects
 				(font
